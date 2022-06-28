@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BuggyCodeApplication<Buggy-Code>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.buggy.Buggy.Code.BuggyCodeApplication",
+            "projectName": "Buggy-Code",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
